@@ -1,0 +1,1 @@
+select count(customer_name) from depositor;

@@ -1,0 +1,1 @@
+select b.customer_name , l.loan_id , l.amount from borrower b,loan l where l.loan_id=b.loan_id and l.branch_name='Perryridge';

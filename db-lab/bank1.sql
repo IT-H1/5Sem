@@ -1,0 +1,1 @@
+select c.customer_name,c.customer_city from customer c , borrower b where c.customer_name = b.customer_name;

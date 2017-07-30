@@ -1,0 +1,1 @@
+select c.customer_name,c.customer_city from customer c,borrower b,loan l where c.customer_name=b.customer_name and b.loan_number=l.loan_number and l.branch_name='Perryridge';

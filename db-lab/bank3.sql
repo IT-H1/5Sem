@@ -1,0 +1,1 @@
+select count(*) from account where balance between 700 and 900;

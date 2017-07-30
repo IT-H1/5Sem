@@ -1,0 +1,1 @@
+select l.loan_number from loan l where l.amount between 10000 and 90000;

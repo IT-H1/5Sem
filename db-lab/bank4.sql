@@ -1,0 +1,1 @@
+select c.customer_name , c.customer_street from customer c where customer_street like('% Hill');

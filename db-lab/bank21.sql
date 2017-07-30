@@ -1,0 +1,1 @@
+select count(branch_name) from account group by branch_name; 

@@ -1,0 +1,1 @@
+select avg(balance) from account where branch_name='Perryridge';

@@ -1,0 +1,1 @@
+select b.branch_name from branch b,branch c where b.assets>c.assets and c.branch_city='Brooklyn';
