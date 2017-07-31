@@ -1,0 +1,1 @@
+select ename , floor((sysdate-hiredate)/365) as experience from emp;

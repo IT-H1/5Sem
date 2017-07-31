@@ -1,0 +1,1 @@
+select deptno from emp group by deptno;

@@ -1,0 +1,1 @@
+select empno,ename,hiredate,job from emp where deptno=10;

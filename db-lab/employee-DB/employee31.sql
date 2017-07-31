@@ -1,0 +1,1 @@
+select ename from emp where (sal + sal*0.2) > 2000;

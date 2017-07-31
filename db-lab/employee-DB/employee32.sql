@@ -1,0 +1,1 @@
+select empno,ename,sal + sal*0.2 as salary from emp;

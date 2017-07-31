@@ -1,0 +1,1 @@
+select ename,sal from emp where job='CLERK';
