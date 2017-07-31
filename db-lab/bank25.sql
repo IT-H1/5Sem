@@ -1,0 +1,1 @@
+select branch_name , count(account_number) as noa from account group by branch_name;
