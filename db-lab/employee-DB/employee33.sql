@@ -1,0 +1,1 @@
+select unique deptno,job from EMP;

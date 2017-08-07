@@ -1,0 +1,1 @@
+select ename , hiredate,(hiredate + INTERVAL '6' MONTHS) as review from EMP;

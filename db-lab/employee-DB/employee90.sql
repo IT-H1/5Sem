@@ -1,0 +1,1 @@
+select ename,job,deptno from EMP where ename between 'C%' and 'F%'; 

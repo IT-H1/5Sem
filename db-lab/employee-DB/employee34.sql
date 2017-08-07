@@ -1,0 +1,1 @@
+select * from EMP where job='MANAGER' or job='CLERK';

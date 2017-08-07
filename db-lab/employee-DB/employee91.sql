@@ -1,0 +1,1 @@
+select empno,ename,sal,job from EMP where sal*12 < 3400 and comm is not null and comm < sal and job = 'SALESMAN' and deptno = 20;
